@@ -37,8 +37,8 @@ SO THAT I can create a strong password that provides greater security.
 
 ## Application
 
-[Password Generator Webpage]()
+[Password Generator Webpage](https://huytvuu.github.io/3-challenge-password-generator/)
 
-![Screenshot of application]()
+![Screenshot of application](https://github.com/huytvuu/3-challenge-password-generator/commit/113c2b7be8a695a52e284b246a36d4689eeeaad7)
 
 
